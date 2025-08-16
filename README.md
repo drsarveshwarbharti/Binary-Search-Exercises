@@ -1,4 +1,4 @@
-##Binary Search Exercises
+## Binary Search Exercises
 
 This repository contains implementations and practice exercises on Binary Search, one of the most fundamental and efficient search algorithms in computer science. 
 
